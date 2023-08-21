@@ -1,4 +1,4 @@
-/* .Container{
+.Container{
     margin: 0 auto;
     width: 800px;
     height: 500px;
@@ -9,18 +9,21 @@
 }
 
 button{
+    background-color:rgb(5, 165, 5);
+    margin-left: 20px;
 }
 img{
-    margin-top:35px;
-    width: 200px;
-    height: 200px;
+    margin-top:50px;
+    width: 300px;
+    height: 300px;
     background: white;
 }
 
 label{
     display: inline-flex;
+    margin-right: 20px;
 }
- */
+ 
 
 
 

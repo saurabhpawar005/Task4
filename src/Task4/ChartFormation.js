@@ -43,7 +43,7 @@ const ChartFormation = () => {
         onChange={handleBox2Change}
         max={100}
       />
-      <button type="button" class="btn btn-success">Create Chart</button>
+      <button type="button" class="btn btn-success"><a href='..#'>Create Chart</a></button>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/70%25_pie_chart.svg/1024px-70%25_pie_chart.svg.png"/>
     </div>
   );
